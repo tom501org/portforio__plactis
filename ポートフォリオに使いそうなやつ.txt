@@ -1,0 +1,17 @@
+https://tympanus.net/codrops/2020/03/04/distorted-link-effects-with-svg-filters/ SVGエフェクト
+https://tympanus.net/codrops/2020/01/14/3d-folding-technique/　背景移動
+https://tympanus.net/codrops/2020/03/31/css-only-marquee-effect/　cssオンリー
+
+
+https://goworkship.com/magazine/sgv-filters-01/　SVGフィルタ
+
+
+
+
+
+https://codepen.io/myacode/pen/PoqQQNM
+https://codepen.io/jkantner/pen/porEYGX
+
+
+https://micku7zu.github.io/vanilla-tilt.js/
+https://coliss.com/articles/build-websites/operation/javascript/vanilla-tilt-js.html
